@@ -1,0 +1,19 @@
+body{
+	background-color: #0f49b5;
+}
+.container img {
+    width: 90%;
+    height: auto;
+}
+.photo{
+	float: left;
+	width: 50%;
+	}
+.text{
+  text-align: center;
+  color: white;
+  float: right;
+  width: 50%;
+ font-size: 25px;
+
+}
